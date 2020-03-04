@@ -173,6 +173,12 @@ python test.py
 - 新增tensorflow实现，使用tesor-RT部署。
 
 
+# 分割标签的制作过程
+
+方法1、 可以参考以下这篇博客（制作标签过程中，采用官方文档存在一些坑）
+- https://blog.csdn.net/liu506039293/article/details/100587498
+
+方法2、稍后更新自己code的部分：（留意utils/gen_label.py文件）
 
 # 参考
 
@@ -183,6 +189,5 @@ python test.py
 
 # 我的微信公众号
 
-![](image/weixin.jpg)
 
 
