@@ -1,4 +1,4 @@
-﻿# Keras-Sematic-Segmentation
+﻿# Sematic-Segmentation-Keras
 
 使用Keras实现深度学习中的一些语义分割模型。(参考网上大神的github模型进行了一系列修改)
 
@@ -16,6 +16,7 @@
 - data.py 加载1个batch的原始图片和分割标签图片
 - train.py 模型训练
 - test.py 模型测试
+- train_valid_spilt.py 划分训练集和验证集
 
 # 已支持的分割模型
 
