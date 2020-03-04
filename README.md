@@ -23,6 +23,8 @@
 |50|enet|ENet|Enet|True|
 |50|fcn8|Vanilla CNN|FCN8|True|
 |50|unet|Vanilla CNN|UNet|True|
+|50|unet_resnet|Vanilla CNN|Unet_resnet|True|
+|50|unet_resnet101|Vanilla CNN|Unet_resnet101|True|
 |50|segnet|Vanilla CNN|SegNet|True|
 |50|icnet|Vanilla CNN|ICNet|True|
 |50|pspnet|Vanilla CNN|PSPNet|True|
