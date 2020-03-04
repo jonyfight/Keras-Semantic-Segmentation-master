@@ -1,13 +1,13 @@
 ﻿# Keras-Sematic-Segmentation
 
-使用Keras实现深度学习中的一些语义分割模型。
+使用Keras实现深度学习中的一些语义分割模型。(参考网上大神的github模型进行了一系列修改)
 
 ![](image/yuyi.png)
 
 # 配置
 - tensorflow 1.8.0
 - keras 2.2.4
-- GTX 2070/CPU
+- GTX 4000p/CPU
 
 # 目录结构
 
@@ -16,6 +16,7 @@
 - data.py 加载1个batch的原始图片和分割标签图片
 - train.py 模型训练
 - test.py 模型测试
+
 # 已支持的分割模型
 
 |Epoch|model_name|Base Model|Segmentation Model|Available|
@@ -112,7 +113,7 @@ python test.py
 
 # Benchmark(陆续公开)
 
-## 个人制作2个类别小零件数据集分割结果
+## 个人制作2个类别小零件数据集分割结果（正在增加后面两个模型结果）
 
 
 
